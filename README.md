@@ -1,1 +1,1 @@
-# deepl_kishf_data
+# Data for a deep learning homework
